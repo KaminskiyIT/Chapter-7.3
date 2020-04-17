@@ -26,6 +26,3 @@ print('Enter the characters you want to remove from your text:')
 inputCharacters = input()
 
 myStript(inputSomeText, inputCharacters)
-
-
-    
