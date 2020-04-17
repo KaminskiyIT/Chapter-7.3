@@ -23,9 +23,9 @@ print('Enter your text:')
 inputSomeText = input()
 
 print('Enter the characters you want to remove from your text:')
-inputChapters = input()
+inputCharacters = input()
 
-myStript(inputSomeText, inputChapters)
+myStript(inputSomeText, inputCharacters)
 
 
     
